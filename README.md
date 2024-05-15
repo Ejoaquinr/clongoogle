@@ -4,7 +4,7 @@ Este proyecto consiste en la imitacion de la plataforma google hecho en clase de
 
 Fue desarrollado con HTML y CSS .
 
-[Proyecto en linea]()
+[Proyecto en linea](https://clongoogleeli.netlify.app/)
 
 - Capturas de pantalla
 
